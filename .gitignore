@@ -1,0 +1,7 @@
+*.bak
+
+.settings
+target
+.classpath
+.project
+app.log
